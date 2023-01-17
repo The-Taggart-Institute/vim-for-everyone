@@ -1,5 +1,5 @@
-1-2: Command Mode - Navigation | CHECK FOR UNDERSTANDING
-========================================================
+1-2: Command Mode - Navigation
+==============================
 
 This file has more than meets the eye!
 

@@ -1,5 +1,5 @@
-1-1: UNDERSTANDING MODES | CHECK FOR UNDERSTANDING
-==================================================
+1-1: Understanding Modes
+========================
 
 Hey, you opened this file! Great job! If you just opened it, then you're in Command Mode.
 
