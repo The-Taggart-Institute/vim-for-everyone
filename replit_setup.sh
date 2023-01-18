@@ -2,4 +2,4 @@
 
 nix-env -iA nixpkgs.vim
 
-Echo "All Set! Happy Vimming"
+echo "All Set! Happy Vimming"
