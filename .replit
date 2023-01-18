@@ -1,0 +1,4 @@
+run = "bash replit_setup.sh"
+
+[nix]
+channel = "stable-22_11"
