@@ -40,4 +40,4 @@ If you would rather experiment in the cloud, our recommendation is to create a p
 
 ## Usage
 
-Each Unit for the course has its own directory. Each Unit has lesson directories, containing text files with instructions for completing the checks for understanding for that lesson. Use Vim to complete each check, and move on!
+Each Unit for the course has its own directory. Each Unit has lesson directories, containing README files with instructions for completing the checks for understanding for that lesson. Use Vim to complete each check, and move on!
