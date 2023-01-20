@@ -1,5 +1,5 @@
-1-2: Command Mode - Navigation
-==============================
+# 1-2: Command Mode - Navigation
+---
 
 This file has more than meets the eye!
 

@@ -1,11 +1,11 @@
-1-6: Visual Mode
-================
+# 1-6: Visual Mode
+---
 
-# Using Visual Mode, remove the Xs from this line.
+**Using Visual Mode, remove the Xs from this line.**
 
 OOOOOOOOOOXXXXXXXXXXOOOOOOOOO
 
-# Using Visual Line Mode, remove the @ lines, leaving only the # lines
+**Using Visual Line Mode, remove the @ lines, leaving only the # lines**
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -23,7 +23,7 @@ OOOOOOOOOOXXXXXXXXXXOOOOOOOOO
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
-# Using Visual Block Mode, Cut just the Os out of the block below and paste them underneath
+**Using Visual Block Mode, Cut just the Os out of the block below and paste them underneath**
 
 XXXXXXXXXXXOOOOOOOOOOXXXXXXXXXX
 XXXXXXXXXXXOOOOOOOOOOXXXXXXXXXX
