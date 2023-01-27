@@ -97,6 +97,7 @@ At lines 300, 700, and 1000 are parts of a flag that you can submit in the cours
 
 
 
+Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Just my luck, no ice. You know what? It is beets. I've crashed into a beet truck. What do they got in there? King Kong? This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows.
 
 
 
@@ -196,6 +197,7 @@ At lines 300, 700, and 1000 are parts of a flag that you can submit in the cours
 
 
 
+I gave it a cold? I gave it a virus. A computer virus. God help us, we're in the hands of engineers. I gave it a cold? I gave it a virus. A computer virus. So you two dig up, dig up dinosaurs? God creates dinosaurs. God destroys dinosaurs. God creates Man. Man destroys God. Man creates Dinosaurs.
 
 
 
@@ -245,9 +247,7 @@ At lines 300, 700, and 1000 are parts of a flag that you can submit in the cours
 
 
 
-
-
-
+Do you have any idea how long it takes those cups to decompose. So you two dig up, dig up dinosaurs? You really think you can fly that thing? I was part of something special. You know what? It is beets. I've crashed into a beet truck. So you two dig up, dig up dinosaurs?
 
 
 
@@ -454,6 +454,7 @@ TTI{these_short
 
 
 
+They're using our own satellites against us. And the clock is ticking. Do you have any idea how long it takes those cups to decompose. Remind me to thank John for a lovely weekend. Do you have any idea how long it takes those cups to decompose. Do you have any idea how long it takes those cups to decompose.
 
 
 
@@ -598,6 +599,7 @@ TTI{these_short
 
 
 
+I was part of something special. Yes, Yes, without the oops! Did he just throw my cat out of the window? Hey, take a look at the earthlings. Goodbye! So you two dig up, dig up dinosaurs? What do they got in there? King Kong? I gave it a cold? I gave it a virus. A computer virus.
 
 
 
@@ -639,9 +641,7 @@ TTI{these_short
 
 
 
-
-
-
+Remind me to thank John for a lovely weekend. Must go faster. So you two dig up, dig up dinosaurs? Eventually, you do plan to have dinosaurs on your dinosaur tour, right? I was part of something special. We gotta burn the rain forest, dump toxic waste, pollute the air, and rip up the OZONE! 'Cause maybe if we screw up this planet enough, they won't want it anymore!
 
 
 
@@ -779,6 +779,7 @@ cuts_really_come_
 
 
 
+Jaguar shark! So tell me - does it really exist? You really think you can fly that thing? Must go faster. Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. Remind me to thank John for a lovely weekend.
 
 
 
@@ -825,6 +826,7 @@ cuts_really_come_
 
 
 
+You know what? It is beets. I've crashed into a beet truck. I was part of something special. God help us, we're in the hands of engineers. God creates dinosaurs. God destroys dinosaurs. God creates Man. Man destroys God. Man creates Dinosaurs. You know what? It is beets. I've crashed into a beet truck.
 
 
 
@@ -960,9 +962,7 @@ cuts_really_come_
 
 
 
-
-
-
+You really think you can fly that thing? Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. What do they got in there? King Kong? Yes, Yes, without the oops! Do you have any idea how long it takes those cups to decompose.
 
 
 
