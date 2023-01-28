@@ -41,3 +41,10 @@ If you would rather experiment in the cloud, our recommendation is to create a p
 ## Usage
 
 Each Unit for the course has its own directory. Each Unit has lesson directories, containing README files with instructions for completing the checks for understanding for that lesson. Use Vim to complete each check, and move on!
+
+## Acknowledgments
+
+Special thanks go out to Matt (HuskyHacks) and Praxaeus from the [Taggart Institute Discord](https://discord.gg/thetaggartinstitute) for QA on this course.
+
+
+Thanks to the developers of [Screenkey](https://www.thregr.org/~wavexx/software/screenkey/) for an amazing tool!
